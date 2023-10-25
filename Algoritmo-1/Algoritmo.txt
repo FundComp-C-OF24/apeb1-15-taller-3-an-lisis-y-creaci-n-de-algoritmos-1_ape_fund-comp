@@ -1,0 +1,1 @@
+AreaTriangulo = (base * altura)/2
