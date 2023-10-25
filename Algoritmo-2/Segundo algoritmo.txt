@@ -1,1 +1,1 @@
-1. GastosTotales=(Hijo1+Hijo2+Hijo3)
+1.GastosTotales=(Hijo1+Hijo2+Hijo3)
