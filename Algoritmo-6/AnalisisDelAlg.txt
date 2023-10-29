@@ -1,0 +1,1 @@
+PagoMensual =(MontoPrestamo * (TasaInteresesMensual(1 + TasaInteresesMensual)^TotalMeses))/((1 + TasaInteresesMensual)^TotalMeses - 1)

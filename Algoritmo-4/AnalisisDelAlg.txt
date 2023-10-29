@@ -1,0 +1,2 @@
+CostoMinutos= Costo * Minutos
+PlantillaTelefono=CostoMinutos * DiasMes

@@ -1,0 +1,10 @@
+1.	Inicio
+2.	Pedir el monto prestado
+3.	Leer el monto prestado
+4.	Pedir la tasa de intereses mensual
+5.	Leer la tasa de intereses mensual
+6.	Pedir el total del plazo en meses
+7.	Leer el total del plazo en meses
+8.	Calculamos el pago mensual, el monto prestado por la tasa de interés mensual por uno más la tasa de intereses mensual esto elevado al total de meses y todo esto sobre uno más la tasa de interés mensual esto elevado al total de meses y menos uno
+9.	Mostrar el pago mensual
+10.	Fin
