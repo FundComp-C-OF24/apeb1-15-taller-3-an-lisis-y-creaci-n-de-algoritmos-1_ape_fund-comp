@@ -1,0 +1,13 @@
+Inicio
+Pedir el costo por kilovatio por hora
+Leer el costo por kilovatio por hora
+Pedir el número de kilovatios consumidos en el mes
+Leer el número de consumo de kilovatios por hora en el mes
+Calcular el total del valor a cancelar multiplicando el costo por el consumo
+Mostrar el resultado del valor total
+Pedir la edad del usuario que tiene el servicio
+Leer la edad del usuario que tiene el servicio
+Si el usuario tiene edad mayor a 65 años entonces se aplicará un descuento del diez por ciento, al resultado total se multiplicará por cero punto uno 
+Calcular el total final restando el total inicial menos el resultado del descuento
+Mostrar el total final a pagar 
+Fin
