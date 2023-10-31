@@ -1,0 +1,5 @@
+1. Total = (costoMensualNetflix + costoMensualYoutubePremium + costoMensualDropbox + costoMensualSpotify)
+2. //Si edad < 30 entonces
+3. Descuento = Total * 0.2
+4. TotalFinal = Total - Descuento 
+
